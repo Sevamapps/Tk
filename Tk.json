@@ -1,7 +1,7 @@
 {
 
-	"admob_banner":"ca-app-pub-3940256099942544/6300978111",
-	"admob_inter":"ca-app-pub-3940256099942544/1033173712",
+	"admob_banner":"ca-app-pub-2891100781366066/1453816739",
+	"admob_inter":"ca-app-pub-2891100781366066/3233802267",
 
 	"APP_KEY": "13ef39059",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -21,7 +21,7 @@
 	"BUTTON_NAME_1": "Start Tkmaxx",
 	"BUTTON_NAME_2": "Start Shopping",
 
-	"URL" : "https://www.wilkooo.ch",
+	"URL" : "https://www.tkmaxx.com/uk/en/",
 
 	"isAdsActivated1":true,
 	"isAdsActivated2":true
